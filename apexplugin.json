@@ -1,6 +1,6 @@
 {
   "name" : "Client-Side Validation Pro",
-  "version" : "20.1",
+  "version" : "22.1",
   "description" : "Give users instant feedback that values are entered correctly or if errors occurred, without writing a single line of code. Client-side Validation Pro will execute the validations defined in the processing section, on request. No more duplicating code to give users instant feedback!",
   "keywords" : ["validation","client"],
   "homepage" : "https://www.plug-ins-pro.com/",
@@ -20,9 +20,9 @@
     "url" : "https://github.com/plug-ins-pro/client_side_validation_pro"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
+    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x", "21.x"],
     "apex" : {
-      "versions" : ["18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0"],
+      "versions" : ["18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0", "20.2.0", "21.1.0", "21.2.0", "22.1.0", "22.2.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_CLIENT_SIDE_VALIDATION",
         "type" : "dynamic action",
